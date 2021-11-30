@@ -40,7 +40,7 @@ public class AdminController
     }
 
     /**
-     * 根据id查询并跳转修改页面
+     * 根据id查询并跳转修改页面 aaa
      */
     @GetMapping("/queryAdminById")
     public String queryAdminById(Integer id, Model model)
